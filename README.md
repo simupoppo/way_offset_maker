@@ -8,3 +8,6 @@ way offset maker for simutrans way addons
 4. set direction of each region. you can use template csv file, or save current directions.
 5. set offset value. this is same as OTRP way offset value.
 6. apply and define save png filename.
+
+## history
+- 2026.10.27 ver.0
